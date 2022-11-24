@@ -8,6 +8,7 @@ public class SelfAssessmentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SelfAssessmentApplication.class, args);
+		//comment test
 	}
 
 }
