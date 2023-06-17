@@ -10,6 +10,7 @@ public class SelfAssessmentApplication {
 		SpringApplication.run(SelfAssessmentApplication.class, args);
 		//comment test
 		// comment 2
+		// comment3
 	}
 
 }
